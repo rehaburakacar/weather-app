@@ -1,0 +1,24 @@
+{
+    "cities": [
+        {
+            "id": "a12213234",
+            "name": "Atlanta, United States",
+            "lat": "33.748992",
+            "lng": "-84.390264"
+        },
+        {
+            "id": "1sdasq132",
+            "name": "Austin, Texas",
+            "lat": "30.271129",
+            "lng": "-97.7437"
+        }
+    ],
+    "CONFIGURATION_PARAMETERS": [
+        {
+            "API_KEY": ""
+        },
+        {
+            "MAPBOX_API_KEY": ""
+        }
+    ]
+}
